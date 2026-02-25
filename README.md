@@ -23,3 +23,6 @@ Browser for Testing: Google Chrome
 Optional Deployment Platform: GitHub Pages or Netlify
 This project is built only using front-end technologies without a backend server. 
 
+OUTPUT:
+<img width="1920" height="911" alt="Image" src="https://github.com/user-attachments/assets/7e2405ea-e83e-4951-b582-4d51078d8a4f" />
+
